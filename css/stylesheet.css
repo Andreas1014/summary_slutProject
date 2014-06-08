@@ -1,0 +1,34 @@
+
+body{
+	font: 0.9em Tahoma, Verdana, Arial;
+	background: #36dcaf;
+	
+}
+
+#index2{
+	list-style-type: circle;
+}
+
+h1{
+	display: block;
+	font-size: 2em;
+	color: #edf49c;
+}
+
+#container{
+	width: 70%;
+	padding: 25px;
+	background: #f7868b;
+	margin: 100px auto 0 auto;
+	border: 5px solid #83d1d7;
+	color: #edf49c;
+}
+
+a{
+	font-size: 1.1em;
+	text-decoration: none;
+	color: #9ccef4;
+}
+
+
+
