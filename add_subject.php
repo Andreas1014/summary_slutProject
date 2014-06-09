@@ -22,7 +22,7 @@
 				<label for="subject_name">Subject name: </label>
 				<input type="text" name="subject_name" />
 			</p>
-			<input type="submit" value"Add" />
+			<input type="submit" value="Add Subject"/>
 		</form>
 	</div>
 </body>
